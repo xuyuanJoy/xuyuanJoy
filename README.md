@@ -6,6 +6,6 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @xuyuanJoy
 - 👀 I’m interested in music，reading and travel！
 - 🌱 I’m currently learning python and explore more interesting things
-- 📫 I'm gald to receive your message here! 
-- Thank you for reading !
-- bye~
+- 📫 I'm gald to receive your message here :D 
+- 👋 Thank you for reading ! 
+- 👋 bye~ 
